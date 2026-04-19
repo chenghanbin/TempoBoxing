@@ -1,0 +1,78 @@
+Privacy Policy — Tempo Boxing                                                                              
+                                                                                                                        
+  Last updated: April 19, 2026                                                                                          
+                                                                                                                        
+  Introduction                                                                                                          
+
+  Real Boxing Training ("the app") is developed by Hanbin Cheng. This policy explains what the app does — and doesn't do
+   — with your data. The short version: everything happens on your iPhone. Nothing you do in the app is ever sent to us 
+  or to any third party.                                                                                                
+                          
+  What We Collect
+
+  Nothing. The app does not collect, transmit, or store any personal information. There are no user accounts, no        
+  sign-in, no analytics, no advertising SDKs, no tracking, and no servers we operate. The app makes no network requests
+  on its own.                                                                                                           
+                          
+  Camera Access
+
+  The app uses the iPhone's front camera to detect your hand movements so it can register your punches. Camera frames   
+  are processed on your device by Apple's Vision framework. Frames are:
+                                                                                                                        
+  - Never saved to disk.                                                                                                
+  - Never uploaded anywhere.
+  - Never shared with us or anyone else.                                                                                
+                                                                                                                        
+  The live camera feed is shown only on your screen while the app is open, and is discarded the moment each frame is    
+  processed.                                                                                                            
+                                                                                                                        
+  Camera access is requested the first time you enter a playing mode. You can revoke it at any time in Settings →       
+  Privacy & Security → Camera → Real Boxing Training.
+                                                                                                                        
+  Microphone Access       
+
+  The app uses the microphone only in Beat Workout and Beat Workout 2x modes, where it listens to music playing in your 
+  environment so it can spawn targets in time with the beat. Audio is processed on your device in real time. Audio
+  samples are:                                                                                                          
+                          
+  - Never saved to disk.
+  - Never uploaded anywhere.
+  - Never shared with us or anyone else.
+  - Processed only for beat detection, never analyzed for speech or other content.
+                                                                                                                        
+  The microphone is not used in Punching Only mode or Your Own Song mode. Microphone access can be revoked in Settings →
+   Privacy & Security → Microphone → Real Boxing Training.                                                              
+                                                                                                                        
+  Imported Music          
+
+  When you import a song via "Add Your Song", the app copies the file into its own private, sandboxed storage on your   
+  device so it can play the track and pre-analyze its beat pattern. Your music files:
+                                                                                                                        
+  - Stay entirely on your device.
+  - Are never uploaded or transmitted.
+  - Are deleted when you remove the track from the app's list or uninstall the app.
+                                                                                                                        
+  The pre-analysis runs locally on your device; no part of the audio or its analysis leaves the phone.                  
+                                                                                                                        
+  Data Storage & Sharing                                                                                                
+                          
+  Because we collect no data, we have nothing to store, sell, share, or disclose. The app does not use third-party      
+  analytics, crash reporters, advertising networks, or tracking libraries.
+                                                                                                                        
+  Children's Privacy      
+
+  The app does not collect any information from anyone, including children under 13. The app is suitable for general    
+  audiences.
+                                                                                                                        
+  Changes to This Policy                                                                                                
+  
+  If the app's data practices ever change (for example, if a future version adds an optional cloud feature), this policy
+   will be updated and the "Last updated" date at the top will change. Material changes will be called out within the
+  app itself before they take effect.                                                                                   
+                          
+  Contact
+
+  Questions about this policy or the app's privacy practices:                                                           
+  
+  Hanbin Cheng                                                                                                          
+  Email: chenghanbin@gmail.com
